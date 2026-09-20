@@ -1,3 +1,5 @@
+This project was built in 2024
+
 AI-driven application that integrates an inpainting pipeline for artistic fashion design. Combines a Colab backend with a modern web interface for image processing and transformation.
 
 ![photo_2_2025-06-20_21-45-04](https://github.com/user-attachments/assets/9eeb5829-6683-43e0-91c2-5b1065a54126)
